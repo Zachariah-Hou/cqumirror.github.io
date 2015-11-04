@@ -1,0 +1,92 @@
+[
+    {
+        "comment": null, 
+        "protocol": "https", 
+        "host": "mirrors.cqu.edu.cn", 
+        "version": "14.04.3-amd64", 
+        "path": "/ubuntu-releases/14.04.3/ubuntu-14.04.3-desktop-amd64.iso", 
+        "fullname": "Ubuntu Desktop", 
+        "type": "os", 
+        "dir": "/ubuntu-releases"
+    }, 
+    {
+        "comment": null, 
+        "protocol": "https", 
+        "host": "mirrors.cqu.edu.cn", 
+        "version": "14.04.3-i386", 
+        "path": "/ubuntu-releases/14.04.3/ubuntu-14.04.3-desktop-i386.iso", 
+        "fullname": "Ubuntu Desktop", 
+        "type": "os", 
+        "dir": "/ubuntu-releases"
+    }, 
+    {
+        "comment": null, 
+        "protocol": "https", 
+        "host": "mirrors.cqu.edu.cn", 
+        "version": "14.04.3-amd64", 
+        "path": "/ubuntu-releases/14.04.3/ubuntu-14.04.3-server-amd64.iso", 
+        "fullname": "Ubuntu Server", 
+        "type": "os", 
+        "dir": "/ubuntu-releases"
+    }, 
+    {
+        "comment": null, 
+        "protocol": "https", 
+        "host": "mirrors.cqu.edu.cn", 
+        "version": "14.04.3-i386", 
+        "path": "/ubuntu-releases/14.04.3/ubuntu-14.04.3-server-i386.iso", 
+        "fullname": "Ubuntu Server", 
+        "type": "os", 
+        "dir": "/ubuntu-releases"
+    }, 
+    {
+        "comment": null, 
+        "protocol": "https", 
+        "host": "mirrors.cqu.edu.cn", 
+        "version": "14.10-amd64", 
+        "path": "/ubuntu-releases/14.10/ubuntu-14.10-desktop-amd64.iso", 
+        "fullname": "Ubuntu Desktop", 
+        "type": "os", 
+        "dir": "/ubuntu-releases"
+    }, 
+    {
+        "comment": null, 
+        "protocol": "https", 
+        "host": "mirrors.cqu.edu.cn", 
+        "version": "14.10-i386", 
+        "path": "/ubuntu-releases/14.10/ubuntu-14.10-desktop-i386.iso", 
+        "fullname": "Ubuntu Desktop", 
+        "type": "os", 
+        "dir": "/ubuntu-releases"
+    }, 
+    {
+        "comment": null, 
+        "protocol": "https", 
+        "host": "mirrors.cqu.edu.cn", 
+        "version": "15.04-amd64", 
+        "path": "/ubuntu-releases/15.04/ubuntu-15.04-desktop-amd64.iso", 
+        "fullname": "Ubuntu Desktop", 
+        "type": "os", 
+        "dir": "/ubuntu-releases"
+    }, 
+    {
+        "comment": null, 
+        "protocol": "https", 
+        "host": "mirrors.cqu.edu.cn", 
+        "version": "15.04-i386", 
+        "path": "/ubuntu-releases/15.04/ubuntu-15.04-desktop-i386.iso", 
+        "fullname": "Ubuntu Desktop", 
+        "type": "os", 
+        "dir": "/ubuntu-releases"
+    }, 
+    {
+        "comment": null, 
+        "protocol": "https", 
+        "host": "b.mirrors.lanunion.org", 
+        "version": "7.1.1503-x86_64-Minimal", 
+        "path": "/CentOS/7.1.1503/isos/x86_64/CentOS-7-x86_64-Minimal-1503-01.iso", 
+        "fullname": "CentOS", 
+        "type": "os", 
+        "dir": "/CentOS"
+    }
+]
