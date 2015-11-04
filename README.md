@@ -1,6 +1,5 @@
 # notice
-现在要手动维护镜像信息、下载资源和通知。
-
+Maintained by... in short, not you!
 
 ## Notices of Mirrors
 ### Format of Notice object
