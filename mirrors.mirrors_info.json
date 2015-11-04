@@ -1,10 +1,202 @@
 [
     {
-        "level": "normal",
-        "content": "There is a big progress."
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=ArchLinux",
+        "path": "/archlinux",
+        "fullname": "Arch Linux"
     },
     {
-        "level": "normal",
-        "content": "Deploy successfully."
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=ArchLinux-arm",
+        "path": "/archlinux-arm",
+        "fullname": "Arch Linux ARM"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=ArchLinux-cn",
+        "path": "/archlinux-cn",
+        "fullname": "Arch Linux CN"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=CentOS",
+        "path": "/centos",
+        "fullname": "CentOS"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/cpan",
+        "fullname": "CPAN"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/debian",
+        "fullname": "Debian"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/debian-backports",
+        "fullname": "Debian backports"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/debian-cd",
+        "fullname": "Debian CD"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/debian-multimedia",
+        "fullname": "Debian multimedia"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/debian-security",
+        "fullname": "Debian security"
+    },
+    {
+        "comment": null,
+        "host": "mirrors.cqu.edu.cn",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=Deepin",
+        "path": "/deepin",
+        "fullname": "Deepin"
+    },
+    {
+        "comment": null,
+        "host": "mirrors.cqu.edu.cn",
+        "protocol": "https",
+        "help": null,
+        "path": "/deepin-cd",
+        "fullname": "Deepin CD"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/epel",
+        "fullname": "EPEL"
+    },
+    {
+        "comment": null,
+        "host": "mirrors.cqu.edu.cn",
+        "protocol": "https",
+        "help": null,
+        "path": "/ezgo",
+        "fullname": "Ezgo"
+    },
+    {
+        "comment": "new",
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/kali",
+        "fullname": "Kali"
+    },
+    {
+        "comment": "new",
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/kali-security",
+        "fullname": "Kali security"
+    },
+    {
+        "comment": null,
+        "host": "b.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=Linuxmint",
+        "path": "/linuxmint",
+        "fullname": "Linux Mint"
+    },
+    {
+        "comment": null,
+        "host": "c.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/mariadb",
+        "fullname": "Mariadb"
+    },
+    {
+        "comment": null,
+        "host": "c.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": null,
+        "path": "/opensuse",
+        "fullname": "OpenSUSE"
+    },
+    {
+        "comment": null,
+        "host": "pypi.mirrors.lanunion.org",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=PyPI",
+        "path": "/",
+        "fullname": "PyPI"
+    },
+    {
+        "comment": null,
+        "host": "mirrors.cqu.edu.cn",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=Raspbian",
+        "path": "/raspbian",
+        "fullname": "Raspbian"
+    },
+    {
+        "comment": null,
+        "host": "mirrors.cqu.edu.cn",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=StartOS",
+        "path": "/startos",
+        "fullname": "StartOS"
+    },
+    {
+        "comment": null,
+        "host": "mirrors.cqu.edu.cn",
+        "protocol": "https",
+        "help": "https://mirrors.cqu.edu.cn/wiki/index.php?title=Ubuntu",
+        "path": "/ubuntu",
+        "fullname": "Ubuntu"
+    },
+    {
+        "comment": null,
+        "host": "mirrors.cqu.edu.cn",
+        "protocol": "https",
+        "help": null,
+        "path": "/ubuntu-kylin-releases",
+        "fullname": "Ubuntu Kylin releases"
+    },
+    {
+        "comment": null,
+        "host": "mirrors.cqu.edu.cn",
+        "protocol": "https",
+        "help": null,
+        "path": "/ubuntu-releases",
+        "fullname": "Ubuntu releases"
     }
 ]
