@@ -1,11 +1,3 @@
-# notice
-Maintained by... in short, not you!
+# bubbles
+To issue notices and backup resources meta.
 
-## Notices of Mirrors
-### Format of Notice object
-```json
-{
-    "level": "normal",
-    "content": "..."
-}
-```
