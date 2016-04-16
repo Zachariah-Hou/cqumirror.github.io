@@ -1,3 +1,2 @@
 # bubbles
-To issue notices and backup resources meta.
-
+To issue notices and persist temporarily cached data in `capacitor`.
