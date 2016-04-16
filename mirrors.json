@@ -61,7 +61,7 @@
     "host": "b.mirrors.lanunion.org", 
     "cname": "debian", 
     "full_name": "Debian", 
-    "help_url": null, 
+    "help_url": "https://mirrors.cqu.edu.cn/wiki/index.php?title=Debian", 
     "path": "/debian", 
     "created_at": null
   }, 
@@ -111,7 +111,7 @@
   }, 
   {
     "protocol": "https", 
-    "muted_at": null, 
+    "muted_at": "2016-04-16T18:49:13Z", 
     "upstream_url": null,
     "host": "mirrors.cqu.edu.cn", 
     "cname": "deepin", 
@@ -124,7 +124,7 @@
     "protocol": "https", 
     "muted_at": null, 
     "upstream_url": null,
-    "host": "mirrors.cqu.edu.cn", 
+    "host": "b.mirrors.lanunion.org",
     "cname": "deepin-cd", 
     "full_name": "Deepin CD", 
     "help_url": null, 
@@ -188,7 +188,7 @@
   }, 
   {
     "protocol": "https", 
-    "muted_at": null, 
+    "muted_at": "2016-04-16T18:49:13Z", 
     "upstream_url": null,
     "host": "c.mirrors.lanunion.org", 
     "cname": "mariadb", 
@@ -232,7 +232,7 @@
   }, 
   {
     "protocol": "https", 
-    "muted_at": null, 
+    "muted_at": "2016-04-16T18:49:13Z", 
     "upstream_url": null,
     "host": "mirrors.cqu.edu.cn", 
     "cname": "startos", 
