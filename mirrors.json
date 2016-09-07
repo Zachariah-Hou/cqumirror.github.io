@@ -18,7 +18,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/archlinux-cn", 
+    "url": "https://mirrors.cqu.edu.cn/archlinux-cn", 
     "muted_at": null, 
     "upstream_url": null, 
     "cname": "archlinux-cn", 
@@ -27,7 +27,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/centos", 
+    "url": "https://mirrors.cqu.edu.cn/centos", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "centos", 
@@ -36,7 +36,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/cpan", 
+    "url": "https://mirrors.cqu.edu.cn/cpan", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "cpan", 
@@ -45,16 +45,16 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/debian", 
+    "url": "https://mirrors.cqu.edu.cn/debian", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "debian",
     "full_name": "Debian", 
-    "help_url": null, 
+    "help_url": "https://mirrors.cqu.edu.cn/wiki/index.php?title=Debian", 
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/debian-backports", 
+    "url": "https://mirrors.cqu.edu.cn/debian-backports", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "debian-backports",
@@ -63,7 +63,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/debian-cd", 
+    "url": "https://mirrors.cqu.edu.cn/debian-cd", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "debian-cd",
@@ -72,7 +72,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/debian-multimedia", 
+    "url": "https://mirrors.cqu.edu.cn/debian-multimedia", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "debian-multimedia", 
@@ -81,7 +81,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/debian-security", 
+    "url": "https://mirrors.cqu.edu.cn/debian-security", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "debian-security", 
@@ -90,8 +90,8 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/deepin", 
-    "muted_at": null, 
+    "url": "https://mirrors.cqu.edu.cn/deepin", 
+    "muted_at": "2016-04-16T18:49:13Z", 
     "upstream_url": null,
     "cname": "deepin", 
     "full_name": "Deepin", 
@@ -99,16 +99,16 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/deepin-cd", 
+    "url": "https://mirrors.cqu.edu.cn/deepin-cd", 
     "muted_at": null, 
-    "upstream_url": null, 
+    "upstream_url": null,
     "cname": "deepin-cd", 
     "full_name": "Deepin CD", 
     "help_url": null, 
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/epel", 
+    "url": "https://mirrors.cqu.edu.cn/epel", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "epel", 
@@ -117,7 +117,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/ezgo", 
+    "url": "https://mirrors.cqu.edu.cn/ezgo", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "ezgo", 
@@ -126,7 +126,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/kali", 
+    "url": "https://mirrors.cqu.edu.cn/kali", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "kali", 
@@ -135,7 +135,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/kali-security", 
+    "url": "https://mirrors.cqu.edu.cn/kali-security", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "kali-security", 
@@ -144,7 +144,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/linuxmint", 
+    "url": "https://mirrors.cqu.edu.cn/linuxmint", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "linuxmint", 
@@ -153,8 +153,9 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/mariadb", 
+    "url": "https://mirrors.cqu.edu.cn/mariadb", 
     "muted_at": null, 
+    "muted_at": "2016-04-16T18:49:13Z", 
     "upstream_url": null,
     "cname": "mariadb", 
     "full_name": "Mariadb", 
@@ -162,7 +163,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/opensuse", 
+    "url": "https://mirrors.cqu.edu.cn/opensuse", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "opensuse", 
@@ -171,7 +172,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/pypi/web", 
+    "url": "https://mirrors.cqu.edu.cn/pypi/web", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "pypi", 
@@ -180,7 +181,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/raspbian", 
+    "url": "https://mirrors.cqu.edu.cn/raspbian", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "raspbian", 
@@ -189,8 +190,8 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/startos", 
-    "muted_at": null, 
+    "url": "https://mirrors.cqu.edu.cn/startos", 
+    "muted_at": "2016-04-16T18:49:13Z", 
     "upstream_url": null,
     "cname": "startos", 
     "full_name": "StartOS", 
@@ -198,7 +199,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/ubuntu", 
+    "url": "https://mirrors.cqu.edu.cn/ubuntu", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "ubuntu", 
@@ -207,7 +208,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/ubuntu-kylin-releases", 
+    "url": "https://mirrors.cqu.edu.cn/ubuntu-kylin-releases", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "ubuntu-kylin-releases", 
@@ -216,7 +217,7 @@
     "created_at": null
   }, 
   {
-    "protocol": "https://mirrors.cqu.edu.cn/ubuntu-releases", 
+    "url": "https://mirrors.cqu.edu.cn/ubuntu-releases", 
     "muted_at": null, 
     "upstream_url": null,
     "cname": "ubuntu-releases", 
