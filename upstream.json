@@ -1,4 +1,4 @@
-[
+{
   "archlinux": "rsync://mirror.rit.edu/archlinux/",
   "archlinux-arm": "rsync://ftp.halifax.rwth-aachen.de/archlinux-arm/",
   "archlinux-cn": "sync.repo.archlinuxcn.org::repo",
@@ -23,4 +23,4 @@
   "ubuntu": "rsync://archive.ubuntu.com/ubuntu/",
   "ubuntu-releases": "rsync://rsync.releases.ubuntu.com/releases/",
   "ubuntukylin-releases": "61.144.43.91::rsync"
-]
+}
